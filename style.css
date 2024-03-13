@@ -1,0 +1,116 @@
+/*
+
+Christian Riveros
+------------------------
+Programador Web | DBA SQL 
+www.criveros.com
+
+
+*/
+
+
+body  {
+	margin: 0px;
+	padding: 0px 0 0 0;
+	font: normal 12px Arial;
+	color: #FFF;
+	background-image:url(gfx/stripe_6.png);
+	background-repeat: repeat;
+	background-position:0px 0px;
+}
+
+#wrap_construction {
+	width: 390px;
+	background-color: #FFFFFF;
+	height: 550px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	vertical-align: middle;
+	display: block;
+	color: #FF6600;
+	font-family: "Trebuchet MS";
+}
+#margenlogo {
+	padding-top: 172px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+	
+	/* main */
+#main {
+	padding: 0;
+	margin-top: 10px;
+	margin-right: 23em;
+	margin-bottom: 10px;
+	margin-left: 0;
+}
+#main h1 {
+	letter-spacing: -2px;
+	padding-bottom: 0;
+	font-family: 'Trebuchet MS', Arial, Sans-serif;
+	font-size: 2.8em;
+	font-weight: bold;
+}
+#main h1 a {
+	text-decoration: none;
+}
+
+/* box */
+.box {
+	border: 1px solid #000000;
+	background-color: #575757;
+	font-family: "Trebuchet MS";
+	margin-top: 10px;
+	margin-right: 0;
+	margin-bottom: 10px;
+	margin-left: 0;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 0px;
+	color: #0099FF;
+	height: 300px;
+}
+#servicios {
+	font-family: "Trebuchet MS";
+	color: #575757;
+	height: 450px;
+	width: 390px;
+	text-align: center;
+	vertical-align: middle;
+	display: block;
+	background-position: center center;
+	clear: both;
+	margin-right: 0px;
+	margin-left: auto;
+}
+
+a:link {
+	text-decoration: none;
+	color: #ACACAC;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #7CACFC;
+	font-size: 14px;
+}
+a:active {
+	text-decoration: none;
+	color: #F3F3F3;
+}
+.ciudad {
+	font-family: "Trebuchet MS";
+	font-size: 9px;
+	color: #565656;
+}
+.Estilo1 {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	color: #FF0000;
+}
